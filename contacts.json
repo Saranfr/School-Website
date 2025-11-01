@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lionel Messi",
+    "email": "leo10@gmail.com",
+    "subject": "admissions",
+    "message": "hi",
+    "id": 1761994197848,
+    "createdAt": "2025-11-01T10:49:57.848Z"
+  },
+  {
+    "name": "Saran S",
+    "email": "saransenthil2353@gmail.com",
+    "subject": "admissions",
+    "message": "hi",
+    "id": 1761995068113,
+    "createdAt": "2025-11-01T11:04:28.113Z"
+  },
+  {
+    "name": "Saran",
+    "email": "saransenthil2353@gmail.com",
+    "subject": "admissions",
+    "message": "Admissions about the computer science course",
+    "id": 1761995758580,
+    "createdAt": "2025-11-01T11:15:58.580Z"
+  }
+]
